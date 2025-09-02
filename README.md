@@ -2,6 +2,7 @@
 
 - 🌱 Hoje estudo linguagens como C, C#, Java e linguagens de marcação e estilo como CSS e HTML.
 - 📧 Contato: camilapereira12345.cp4@gmail.com
+- 📧 linkedin: camilapereiradasilva123
 - 😄 Pronouns: Ela/Dela
 
 ## 📊 Minhas estatísticas
