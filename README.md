@@ -12,10 +12,6 @@
 
 ---
 
-## 📌 Repositórios fixos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaaSilvaa&repo=Exercicios-CSharp)](https://github.com/CamilaaSilvaa/Exercicios-CSharp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaaSilvaa&repo=beecrowd-exercicios)](https://github.com/CamilaaSilvaa/beecrowd-exercicios)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamilaaSilvaa&repo=Verilog-Exercicios)](https://github.com/CamilaaSilvaa/Verilog-Exercicios)
 
 
