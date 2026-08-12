@@ -10,8 +10,8 @@
 
 ### 📊 Minhas estatísticas
 
-[![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaaSilvaa&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400)](https://github.com/CamilaaSilvaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaaSilvaa&layout=compact&langs_count=6&theme=radical&cache_seconds=86400)](https://github.com/CamilaaSilvaa)
+[![Meu GitHub stats](https://github-stats-extended.vercel.app/api?username=CamilaaSilvaa&show_icons=true&theme=radical&hide_border=false)](https://github.com/CamilaaSilvaa)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=CamilaaSilvaa&layout=compact&langs_count=6&theme=radical)](https://github.com/CamilaaSilvaa)
 
 
 
