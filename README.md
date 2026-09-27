@@ -1,6 +1,6 @@
 ### Olá, eu sou a Camila 👋
 
-- 💻 Estudante de ADS na PUC Minas, buscando estágio em desenvolvimento
+- 💻 Estudante de Engenharia de Software na PUC Minas, buscando estágio em desenvolvimento
 - 🔭 Trabalho atualmente com React, TypeScript, SQL e Node.js
 - 🌱 Também tenho base em Java, C# e C
 - 📫 Contato: camilapereira12345.cp4@gmail.com
